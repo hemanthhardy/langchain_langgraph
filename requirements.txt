@@ -4,3 +4,9 @@ python-dotenv
 langgraph
 langchain_core
 typing
+langchain-classic
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+pypdf
+bs4
