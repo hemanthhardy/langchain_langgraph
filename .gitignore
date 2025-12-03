@@ -1,1 +1,3 @@
 agents
+.env    
+simple_chat_history.txt
